@@ -1,0 +1,238 @@
+VT(1) vs time:
+
+Bleach Single Exp Values:
+
+  V_chisq= 2.47173e-006;V_npnts= 33;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 28;V_endRow= 60;
+  W_sigma={0.000668,0.000598,1.51}
+  Coefficient values ± one standard deviation
+  	y0 	=4.0429e-005 ± 0.000668
+  	A  	=0.0064133 ± 0.000598
+  	tau	=7.8687 ± 1.51
+  Constant:
+  	X0	=0.0298249
+
+
+Decay Single Exp:
+
+  V_chisq= 1.00532e-005;V_npnts= 292;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 60;V_endRow= 351;
+  W_sigma={1.45e-05,5.01e-05,1.25}
+  Coefficient values ± one standard deviation
+  	y0 	=0.0043229 ± 1.45e-005
+  	A  	=-0.0026274 ± 5.01e-005
+  	tau	=33.541 ± 1.25
+  Constant:
+  	X0	=11.2826
+
+Whole Trace Bi-Exp:
+
+  V_chisq= 1.52384e-005;V_npnts= 324;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 28;V_endRow= 351;
+  W_sigma={1.66e-05,0.000301,0.316,0.000317,1.57}
+  Coefficient values ± one standard deviation
+  	y0  	=0.0043058 ± 1.66e-005
+  	A1  	=0.0072162 ± 0.000301
+  	tau1	=5.455 ± 0.316
+  	A2  	=-0.0047433 ± 0.000317
+  	tau2	=27.655 ± 1.57
+  Constant:
+  	X0	=0.0298249
+
+-------------------------------------------------
+VT(2) vs time:
+
+Single Exp Bleach (large stdev!)
+
+  V_chisq= 7.34889e-007;V_npnts= 7;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 46;V_endRow= 52;
+  W_sigma={0.00755,0.00735,6.01}
+  Coefficient values ± one standard deviation
+  	y0 	=0.0027819 ± 0.00755
+  	A  	=-0.0060284 ± 0.00735
+  	tau	=3.4902 ± 6.01
+  Constant:
+  	X0	=5.35251
+
+Single Exp Decay
+
+  V_chisq= 6.86855e-006;V_npnts= 300;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 52;V_endRow= 351;
+  W_sigma={9.8e-06,6.29e-05,0.211}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.0057111 ± 9.8e-006
+  	A  	=0.005216 ± 6.29e-005
+  	tau	=10.239 ± 0.211
+  Constant:
+  	X0	=7.70213
+
+Bi-Exp Whole Trace
+
+  V_chisq= 1.05752e-005;V_npnts= 307;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 45;V_endRow= 351;
+  W_sigma={1.21e-05,0.000323,0.16,0.000328,0.348}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.0057052 ± 1.21e-005
+  	A1  	=-0.0053789 ± 0.000323
+  	tau1	=1.7243 ± 0.16
+  	A2  	=0.007764 ± 0.000328
+  	tau2	=9.2883 ± 0.348
+  Constant:
+  	X0	=4.98879
+
+--------------------------------------------------
+
+VT(3) vs. time
+
+Single Exp bleach
+
+  V_chisq= 6.37419e-007;V_npnts= 10;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 46;V_endRow= 55;
+  W_sigma={0.000593,0.000535,0.868}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.008478 ± 0.000593
+  	A  	=-0.0028244 ± 0.000535
+  	tau	=1.7903 ± 0.868
+  Constant:
+  	X0	=5.35251
+
+Single Exp Decay
+
+  V_chisq= 5.02346e-006;V_npnts= 297;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 55;V_endRow= 351;
+  W_sigma={8.62e-06,5.07e-05,0.902}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.010072 ± 8.62e-006
+  	A  	=0.0012271 ± 5.07e-005
+  	tau	=12.597 ± 0.902
+  Constant:
+  	X0	=8.98489
+
+Bi-Exp Whole Trace
+
+  V_chisq= 5.75286e-006;V_npnts= 306;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 46;V_endRow= 351;
+  W_sigma={9.05e-06,0.000192,0.166,0.000186,0.989}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.010069 ± 9.05e-006
+  	A1  	=-0.0032609 ± 0.000192
+  	tau1	=1.5546 ± 0.166
+  	A2  	=0.0019369 ± 0.000186
+  	tau2	=10.95 ± 0.989
+  Constant:
+  	X0	=5.35251
+
+---------------------------------------------------------------
+VT(4) vs. Time
+
+Single Exp Bleach
+
+  V_chisq= 2.32073e-006;V_npnts= 27;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 54;V_endRow= 80;
+  W_sigma={0.000166,0.000212,1.36}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.015713 ± 0.000166
+  	A  	=0.001643 ± 0.000212
+  	tau	=3.7966 ± 1.36
+  Constant:
+  	X0	=8.54939
+
+Single Exp Decay
+
+  V_chisq= 1.81915e-005;V_npnts= 272;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 80;V_endRow= 351;
+  W_sigma={2.01e-05,8.13e-05,6.52}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.014883 ± 2.01e-005
+  	A  	=-0.00067318 ± 8.13e-005
+  	tau	=29.472 ± 6.52
+  Constant:
+  	X0	=22.4714
+
+Whole Trace Biexp
+
+  V_chisq= 2.05207e-005;V_npnts= 298;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 54;V_endRow= 351;
+  W_sigma={2.05e-05,0.000241,0.872,0.000219,6.66}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.014882 ± 2.05e-005
+  	A1  	=0.0019658 ± 0.000241
+  	tau1	=3.6181 ± 0.872
+  	A2  	=-0.0010908 ± 0.000219
+  	tau2	=29.968 ± 6.66
+  Constant:
+  	X0	=8.5493
+
+
+-------------------------------------------------------------------------
+Global Fitting:
+
+VT(1),VT(4) and VT(2),VT(3) have pairs of corresponding rates
+Fit to Tetra Exponential (two growth components, two decay components)
+
+Functional Form:
+
+A1*exp(-(t-t0)/Tau1)+A2*exp(-(t-t0/Tau2)+A3*exp(-(t-t0)/Tau3)+A4*exp(-(t-t0)/Tau4)+C
+--------------------------------------------------------------------------
+First try just VT(1) and VT(2)
+
+start at data index 45(first data point in individual fits for VT(3),VT(4)), take it to 200 ps to balance early/late time data
+
+Link Tau1, Tau2, Tau3, Tau4, t0 for all VT(j)
+
+Hold above BiExp Taus for initial guesses to fit parameters (Tau1 = 1.5 ps, Tau2 = 5 ps, Tau3 = 10 ps, Tau4 = 30 ps)to allow amplitudes and offsets to converge, then constrain each Tau around those values until values converge not too close to one end of the bounds.
+
+Constraints:
+Tau1: L = 0.1 ps, U = 3 ps
+Tau2: L = 4 ps, U = 7 ps
+Tau3: L = 9 ps, U = 11 ps
+Tau4: L = 28 ps, U = 50 ps
+All other parameters unconstrained
+
+Global Parameters:
+
+t0 = -18.6 ps
+Tau1 =2.2 ps
+Tau2 =6.3 ps
+Tau3 =9.3 ps
+Tau4 = 48.9 ps
+
+Individual Parameters
+
+VT(1):
+ 
+A11 = 1265.3
+A21 = 5.7
+A31 = -1.7
+A41 = -0.05
+C1 = -0.047
+
+VT(2) 
+
+A12 = -21793.5
+A22 = 19.6
+A32 = 0.17
+A42 = 0.06
+C2 = -0.036
+
+H-matrix:
+A11 A21 A31 A41 C1
+A12 A22 A32 A42 C2
+-----------------------------------------------------------------------------
+
+Try again using All 4 VT(j) components
+
+Amplitudes and Offsets
+H4 =
+
+    0.1800    0.2600   -0.2000   -0.0400   -0.0470
+   -2.4000  -10.0000    0.5700    0.0100   -0.0330
+   -3.7000  -10.0000    0.3400    0.0200   -0.0060
+   10.0000    0.4700  -10.0000   -0.1500    0.0230
+
+tau1 1.8 ps 
+tau2  6 ps (edge of upper bound)
+tau3  9 ps (edge of lower bound)
+tau4  45 ps
+
+t0 0.7 ps

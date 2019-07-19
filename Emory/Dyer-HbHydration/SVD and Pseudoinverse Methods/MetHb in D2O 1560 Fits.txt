@@ -1,0 +1,32 @@
+MetHb No Ethylene Glycol
+
+Heme 1560 cm-1 Whole Trace Bi-Exp
+
+  V_chisq= 3.9893e-007;V_npnts= 338;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 12;V_endRow= 349;
+  W_sigma={2.2e-06,0.00112,0.633,0.00112,1.19}
+  Coefficient values ± one standard deviation
+  	y0  	=-9.0628e-005 ± 2.2e-006
+  	A1  	=0.00094815 ± 0.00112
+  	tau1	=1.6161 ± 0.633
+  	A2  	=-0.00077173 ± 0.00112
+  	tau2	=2.9431 ± 1.19
+  Constant:
+  	X0	=1.01327e-005
+
+-----------------------------------------------------
+Ethylene Glycol
+
+Heme 1560 cm-1 Whole Trace Bi-Exp:
+  
+  V_chisq= 4.48697e-007;V_npnts= 332;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 17;V_endRow= 348;
+  W_sigma={2.91e-06,2.77e-05,0.342,2.74e-05,1.77}
+  Coefficient values ± one standard deviation
+  	y0  	=-9.3534e-005 ± 2.91e-006
+  	A1  	=0.00027754 ± 2.77e-005
+  	tau1	=1.7864 ± 0.342
+  	A2  	=-0.00025634 ± 2.74e-005
+  	tau2	=14.407 ± 1.77
+  Constant:
+  	X0	=0.000448671

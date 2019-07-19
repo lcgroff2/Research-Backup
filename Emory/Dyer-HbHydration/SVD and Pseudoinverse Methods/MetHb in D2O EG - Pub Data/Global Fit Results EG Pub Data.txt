@@ -1,0 +1,248 @@
+V(1) vs. time
+
+Bleach Single Exp Fit Values (stdev tau > 20%)
+  
+  V_chisq= 4.78706e-006;V_npnts= 56;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 13;V_endRow= 68;
+  W_sigma={0.000347,0.000306,1.77}
+  Coefficient values ± one standard deviation
+  	y0 	=0.0089056 ± 0.000347
+  	A  	=-0.0016644 ± 0.000306
+  	tau	=4.0968 ± 1.77
+  Constant:
+  	X0	=0.17984
+
+Bleach Bi Exp Fit
+
+tau1 is ultrafast ~0.3 ps
+tau2 won't converge
+
+Decay Single Exp Fit Values
+
+  V_chisq= 1.65633e-005;V_npnts= 281;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 68;V_endRow= 348;
+  W_sigma={1.82e-05,7.59e-05,1.27}
+  Coefficient values ± one standard deviation
+  	y0 	=0.0075371 ± 1.82e-005
+  	A  	=0.0012299 ± 7.59e-005
+  	tau	=11.225 ± 1.27
+  Constant:
+  	X0	=7.81592
+
+Whole Trace Fit Values (Stdev tau > 40%)
+
+  V_chisq= 2.1688e-005;V_npnts= 336;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 13;V_endRow= 348;
+  W_sigma={1.95e-05,0.00612,1.91,0.00615,3.26}
+  Coefficient values ± one standard deviation
+  	y0  	=0.007536 ± 1.95e-005
+  	A1  	=-0.0053938 ± 0.00612
+  	tau1	=5 ± 1.91
+  	A2  	=0.0050125 ± 0.00615
+  	tau2	=9.0966 ± 3.26
+  Constant:
+  	X0	=0.17984
+----------------------------------------------------
+VT(2) vs. time 
+
+Decay Single Exp Fit Values:
+
+  V_chisq= 8.62723e-006;V_npnts= 269;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 80;V_endRow= 348;
+  W_sigma={2.08e-05,3.94e-05,2.87}
+  Coefficient values ± one standard deviation
+  	y0 	=0.0034279 ± 2.08e-005
+  	A  	=-0.0010729 ± 3.94e-005
+  	tau	=32.802 ± 2.87
+  Constant:
+  	X0	=10.8601
+
+-----------------------------------------------------
+V(3) vs. time
+
+Single Exp bleach
+
+  V_chisq= 1.7571e-006;V_npnts= 101;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 0;V_endRow= 100;
+  W_sigma={0.000285,0.000273,4.33}
+  Coefficient values ± one standard deviation
+  	y0 	=0.00095802 ± 0.000285
+  	A  	=-0.0015723 ± 0.000273
+  	tau	=15.24 ± 4.33
+  Constant:
+  	X0	=-0.109761
+
+Exp Decay
+
+  V_chisq= 1.102e-006;V_npnts= 249;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 100;V_endRow= 348;
+  W_sigma={5.91e-06,1.98e-05,1.24}
+  Coefficient values ± one standard deviation
+  	y0 	=-4.0354e-005 ± 5.91e-006
+  	A  	=0.00053855 ± 1.98e-005
+  	tau	=17.72 ± 1.24
+  Constant:
+  	X0	=17.3752
+
+Whole Trace Bi Exp (stdev tau > 40%)
+
+  V_chisq= 3.47248e-006;V_npnts= 349;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 0;V_endRow= 348;
+  W_sigma={1.01e-05,0.0085,4.39,0.00851,7.11}
+  Coefficient values ± one standard deviation
+  	y0  	=-5.2442e-005 ± 1.01e-005
+  	A1  	=-0.0043491 ± 0.0085
+  	tau1	=11.621 ± 4.39
+  	A2  	=0.003728 ± 0.00851
+  	tau2	=17 ± 7.11
+  Constant:
+  	X0	=-0.109761
+
+---------------------------------------------------
+V(4) vs. time
+
+Bleach Single Exp Fit
+ 
+oscillating, too few data points on rise
+
+Decay Single Exp Fit
+
+  V_chisq= 3.16292e-006;V_npnts= 294;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 55;V_endRow= 348;
+  W_sigma={6.68e-06,4.73e-05,0.31}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.0030371 ± 6.68e-006
+  	A  	=0.00095771 ± 4.73e-005
+  	tau	=3.7108 ± 0.31
+  Constant:
+  	X0	=5.07523
+
+----------------------------------------------------------------
+Raw Solvent Fit - baseline subtracted from data
+
+Single Exp
+
+  V_chisq= 9.00618e-007;V_npnts= 294;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 55;V_endRow= 348;
+  W_sigma={5.51e-06,1.15e-05,4.51}
+  Coefficient values ± one standard deviation
+  	y0 	=-8.905e-005 ± 5.51e-006
+  	A  	=0.00016341 ± 1.15e-005
+  	tau	=27.608 ± 4.51
+  Constant:
+  	X0	=5.07523
+
+Bi-Exp (High tau error!)
+
+  V_chisq= 7.05179e-007;V_npnts= 294;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 55;V_endRow= 348;
+  W_sigma={9.53e-06,3.65e-05,0.236,1.06e-05,15.1}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.00010138 ± 9.53e-006
+  	A1  	=0.00029346 ± 3.65e-005
+  	tau1	=1.0327 ± 0.236
+  	A2  	=0.00012054 ± 1.06e-005
+  	tau2	=55.796 ± 15.1
+  Constant:
+  	X0	=5.07523
+
+tau_avg = A1/(A1+A2)*tau1 + A2/(A1+A2)*tau2 = 17.0 ps
+
+--------------------------------------------------------------------
+
+Protein Response 1630 cm-1 - baseline subtracted from data
+
+Single Exp Bleach (stdev > 20% in tau)
+
+  V_chisq= 2.89357e-007;V_npnts= 78;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 8;V_endRow= 85;
+  W_sigma={1.94e-05,2.2e-05,0.499}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.0004626 ± 1.94e-005
+  	A  	=0.00038922 ± 2.2e-005
+  	tau	=2.9931 ± 0.499
+  Constant:
+  	X0	=-1.79976e-005
+
+Bi-Exp Bleach (Stdev > 20% in tau)
+
+  V_chisq= 2.34282e-007;V_npnts= 78;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 8;V_endRow= 85;
+  W_sigma={0.000131,5.03e-05,0.214,9.58e-05,6.19}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.0005719 ± 0.000131
+  	A1  	=0.00020901 ± 5.03e-005
+  	tau1	=0.42871 ± 0.214
+  	A2  	=0.00037098 ± 9.58e-005
+  	tau2	=8.3701 ± 6.19
+  Constant:
+  	X0	=-1.79976e-005
+
+tau_avg = A1/(A1+A2)*tau1 + A2/(A1+A2)*tau2 = 5.5 ps
+
+Single Exp Decay
+
+  V_chisq= 5.74156e-007;V_npnts= 264;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 85;V_endRow= 348;
+  W_sigma={4.04e-06,1.34e-05,1.59}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.00020557 ± 4.04e-006
+  	A  	=-0.00028875 ± 1.34e-005
+  	tau	=17.915 ± 1.59
+  Constant:
+  	X0	=12.2741
+
+Bi-Exp Whole Trace (>20% error)
+
+  V_chisq= 8.72506e-007;V_npnts= 341;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 8;V_endRow= 348;
+  W_sigma={4.34e-06,0.00133,2.06,0.00133,3.54}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.00020766 ± 4.34e-006
+  	A1  	=0.0017814 ± 0.00133
+  	tau1	=7.8504 ± 2.06
+  	A2  	=-0.0016679 ± 0.00133
+  	tau2	=12.228 ± 3.54
+  Constant:
+  	X0	=-1.79976e-005
+
+------------------------------------------------------------------
+Heme Response 1560 cm-1 - baseline subtracted from data
+
+Single Exp bleach (high tau error > 20%)
+
+  V_chisq= 1.359e-007;V_npnts= 43;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 13;V_endRow= 55;
+  W_sigma={1.33e-05,3.45e-05,0.166}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.00043524 ± 1.33e-005
+  	A  	=0.00023836 ± 3.45e-005
+  	tau	=0.53953 ± 0.166
+  Constant:
+  	X0	=0.17984
+
+Single Exp decay (moderately high tau error > 10%)
+
+  V_chisq= 4.85969e-007;V_npnts= 294;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 55;V_endRow= 348;
+  W_sigma={2.86e-06,1.33e-05,1.06}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.00026336 ± 2.86e-006
+  	A  	=-0.00019099 ± 1.33e-005
+  	tau	=8.2883 ± 1.06
+  Constant:
+  	X0	=5.07523
+
+Whole trace bi-exp (moderately high tau error > 10%)
+
+  V_chisq= 6.1598e-007;V_npnts= 336;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 13;V_endRow= 348;
+  W_sigma={3.06e-06,3.34e-05,0.205,3.25e-05,1.2}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.00026294 ± 3.06e-006
+  	A1  	=0.00034317 ± 3.34e-005
+  	tau1	=1.0633 ± 0.205
+  	A2  	=-0.00029119 ± 3.25e-005
+  	tau2	=9.3332 ± 1.2
+  Constant:
+  	X0	=0.17984

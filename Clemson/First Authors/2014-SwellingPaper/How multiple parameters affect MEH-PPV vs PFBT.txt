@@ -1,0 +1,10 @@
+Mind Dump
+
+How the picture of MEH-PPV vs PFBT works in terms of estimated L_D, 1D/3D considerations, multiple energy transfer, and anisotropy/# of hops per lifetime.
+
+We expect that the number of exciton hops per lifetime is something on the order of 3 for PFBT in THF and 30 for PFBT CPNs. We expect this number to be higher for MEH-PPV, given that Scholes did ultrafast work on MEH-PPV in solution and most of the decay occurs within something like a few ps. We also expect that quenching differs by around an order of magnitude between 1D chains and 3D particles, which our spherical cow calculations show. It would make sense if the # of hops differs by ~1 order of magnitude as well, which it seems to for PFBT. We'll see about MEH-PPV. If MEH-PPV shows the same sort of relationship for particles 10x more hops per lifetime, then it stands to reason that part of the reason why MEH-PPV has a very low fluorescence quantum yield is that it's a great exciton transport polymer, which means that it can move excitons to the quenchers on the chains much faster than PFBT. So, maybe PFBT is a poor(er) exciton transport polymer, but because of that, we see the improved quantum yield, whereas MEH-PPV is a better exciton transport polymer, and we see a poor quantum yield. Once you reach a limit with the # of hop events, it becomes difficult to get a real assessment of exciton diffusion length, since you're only measuring the average spacing between defects, since the excitons will be efficiently funneled to quenchers. There's also stronger dipole coupling in MEH-PPV, which might be an indicator of the enhanced exciton transport in MEH-PPV vs PFBT, evidenced by UV-vis/Fluorescence spectra of both polymers.
+
+Notes:
+Scholes Science Data
+MEH-PPV in CF tau_r ~320 fs
+MEH-PPV CPNs tau_r ~500 fs

@@ -1,0 +1,15 @@
+The ? plug-in caused an exception in the CmxuMenuSite::GetToolbar function in the NIMax process.
+See these files for details:
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143830-NIMax-000004F4.log
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143830-NIMax-000004F4.dmp
+
+The exception occurred in the NIMax process in the function CViewWrapper::Activate.
+See these files for details:
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143832-NIMax-000004F4.log
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143832-NIMax-000004F4.dmp
+
+The exception occurred in the NIMax process in the function (Unknown).
+See these files for details:
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143834-NIMax-000004F4.log
+C:\ProgramData\National Instruments\MAX\Logs\20180521_143834-NIMax-000004F4.dmp
+

@@ -1,0 +1,140 @@
+MetHb 70% EG
+
+VT(1) vs time:
+
+Bleach Single Exp Fit
+
+  V_chisq= 0.00319744;V_npnts= 29;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 23;V_endRow= 51;
+  W_sigma={0.026,0.0232,2.93}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.13906 ± 0.026
+  	A  	=0.093344 ± 0.0232
+  	tau	=5.6361 ± 2.93
+  Constant:
+  	X0	=226.441
+
+Decay Exp Fit
+
+  V_chisq= 0.0151504;V_npnts= 316;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 51;V_endRow= 366;
+  W_sigma={0.000507,0.00181,1.38}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.031206 ± 0.000507
+  	A  	=-0.082189 ± 0.00181
+  	tau	=31.791 ± 1.38
+  Constant:
+  	X0	=234.721
+
+Whole Trace Bi Exp
+
+  V_chisq= 0.0193988;V_npnts= 344;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 23;V_endRow= 366;
+  W_sigma={0.000553,0.0055,0.366,0.00513,1.7}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.031256 ± 0.000553
+  	A1  	=0.10337 ± 0.0055
+  	tau1	=3.3347 ± 0.366
+  	A2  	=-0.1105 ± 0.00513
+  	tau2	=30.983 ± 1.7
+  Constant:
+  	X0	=226.441
+-----------------------------------------------------------------
+VT(2) vs. Time
+
+Bleach Single Exp
+
+  V_chisq= 0.010502;V_npnts= 13;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 44;V_endRow= 56;
+  W_sigma={0.0549,0.0488,1.58}
+  Coefficient values ± one standard deviation
+  	y0 	=0.10594 ± 0.0549
+  	A  	=-0.18816 ± 0.0488
+  	tau	=2.2972 ± 1.58
+  Constant:
+  	X0	=232.063
+
+Decay Single Exp
+
+  V_chisq= 0.0809909;V_npnts= 311;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 56;V_endRow= 366;
+  W_sigma={0.00126,0.00396,3.87}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.0057161 ± 0.00126
+  	A  	=0.083741 ± 0.00396
+  	tau	=40.511 ± 3.87
+  Constant:
+  	X0	=236.858
+
+Whole Trace Bi Exp
+
+  V_chisq= 0.091649;V_npnts= 323;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 44;V_endRow= 366;
+  W_sigma={0.0013,0.0134,0.268,0.00646,3.96}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.0055428 ± 0.0013
+  	A1  	=-0.18046 ± 0.0134
+  	tau1	=1.7975 ± 0.268
+  	A2  	=0.099592 ± 0.00646
+  	tau2	=38.188 ± 3.96
+  Constant:
+  	X0	=232.063
+
+-----------------------------------------------------------------
+VT(3) vs. Time
+
+Bleach Single Exp
+
+  V_chisq= 0.00629331;V_npnts= 30;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 51;V_endRow= 80;
+  W_sigma={0.0072,0.00988,0.593}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.10712 ± 0.0072
+  	A  	=0.17469 ± 0.00988
+  	tau	=3.8833 ± 0.593
+  Constant:
+  	X0	=234.721
+
+Decay Single Exp
+
+  V_chisq= 0.0849604;V_npnts= 287;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 80;V_endRow= 366;
+  W_sigma={0.00135,0.00492,2.49}
+  Coefficient values ± one standard deviation
+  	y0 	=0.048313 ± 0.00135
+  	A  	=-0.13789 ± 0.00492
+  	tau	=37.014 ± 2.49
+  Constant:
+  	X0	=249.901
+
+Whole Trace Bi Exp
+
+  V_chisq= 0.0926912;V_npnts= 316;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 51;V_endRow= 366;
+  W_sigma={0.00134,0.0151,0.534,0.0143,2.47}
+  Coefficient values ± one standard deviation
+  	y0  	=0.048073 ± 0.00134
+  	A1  	=0.24588 ± 0.0151
+  	tau1	=4.4707 ± 0.534
+  	A2  	=-0.22129 ± 0.0143
+  	tau2	=35.239 ± 2.47
+  Constant:
+  	X0	=234.721
+
+---------------------------------------------------------------
+VT(4) Vs. Time
+
+Single Exp Fit
+
+  V_chisq= 0.289633;V_npnts= 316;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 51;V_endRow= 366;
+  W_sigma={0.00178,0.0202,0.316}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.021721 ± 0.00178
+  	A  	=0.3106 ± 0.0202
+  	tau	=2.9902 ± 0.316
+  Constant:
+  	X0	=234.721
+
+Bi Exp Fit
+

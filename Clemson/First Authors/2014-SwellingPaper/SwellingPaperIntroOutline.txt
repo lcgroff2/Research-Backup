@@ -1,0 +1,22 @@
+Primary objectives:
+
+Explore the effect of solvent induced swelling on the photophysics of CPNs
+	- PLQY
+	- Quenching Efficiency
+	- Lifetime
+	- multiple energy transfer rates
+Why?
+	- Identifying the limiting factors that affect exciton transport in 	  CPs
+	- Providing rough estimate of number of quenching species
+	- Test hypothesis that MET is faster in CPNs vs. polymer in sol'n, and           implications for device applications.
+How?
+	- Spectral Analysis and PLQY
+	- TCSPC
+	- FAD
+	- Lattice Model
+
+Who else has done it?
+Us: dye-doping papers me, changfeng.
+
+
+

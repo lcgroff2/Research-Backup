@@ -1,0 +1,16 @@
+overall average quenching efficiency for 50 runs: 0.9270
+picosecond decay in t, picoav
+average tau =  386 ps
+average beta = 0.6753
+dx = 1.2
+pet = 0.0119
+
+
+overall average quenching efficiency for 50 runs: 0.9061
+picosecond decay in t, picoav
+average tau =  463 ps
+average beta = 0.6939
+dx = 0.8
+pet = 0.0268
+
+

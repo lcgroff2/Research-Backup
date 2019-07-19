@@ -1,0 +1,97 @@
+VT(1) vs time:
+
+Bleach Single Exp Values:
+
+  V_chisq= 0.00166155;V_npnts= 36;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 30;V_endRow= 65;
+  W_sigma={0.0061,0.00537,0.736}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.10943 ± 0.0061
+  	A  	=0.11534 ± 0.00537
+  	tau	=5.3979 ± 0.736
+  Constant:
+  	X0	=227.923
+
+Decay Single Exp
+
+  V_chisq= 0.00276395;V_npnts= 186;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 65;V_endRow= 250;
+  W_sigma={0.000491,0.00108,1.44}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.042534 ± 0.000491
+  	A  	=-0.05664 ± 0.00108
+  	tau	=33.887 ± 1.44
+  Constant:
+  	X0	=241.21
+
+Whole Trace Bi Exp
+
+  V_chisq= 0.00475961;V_npnts= 221;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 30;V_endRow= 250;
+  W_sigma={0.000455,0.00252,0.198,0.00226,0}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.04202 ± 0.000455
+  	A1  	=0.14279 ± 0.00252
+  	tau1	=5.1646 ± 0.198
+  	A2  	=-0.091082 ± 0.00226
+  	tau2	=33.887 ± 0
+  Constant:
+  	X0	=227.923
+
+-------------------------------------------------
+
+VT(2) vs time:
+
+Single Exp Fit
+
+  V_chisq= 0.0367157;V_npnts= 203;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 48;V_endRow= 250;
+  W_sigma={0.00106,0.00694,0.42}
+  Coefficient values ± one standard deviation
+  	y0 	=0.013793 ± 0.00106
+  	A  	=-0.15673 ± 0.00694
+  	tau	=5.6189 ± 0.42
+  Constant:
+  	X0	=233.534
+
+--------------------------------------------------
+
+VT(3) vs. Time:
+
+Bleach Single Exp Fit
+
+  V_chisq= 0.0539523;V_npnts= 38;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 28;V_endRow= 65;
+  W_sigma={0.0124,0.0232,0.84}
+  Coefficient values ± one standard deviation
+  	y0 	=0.068278 ± 0.0124
+  	A  	=-0.16651 ± 0.0232
+  	tau	=2.5524 ± 0.84
+  Constant:
+  	X0	=227.46
+
+Decay Single Exp Fit
+
+  V_chisq= 0.172245;V_npnts= 186;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 65;V_endRow= 250;
+  W_sigma={0.00342,0.00933,4.69}
+  Coefficient values ± one standard deviation
+  	y0 	=-0.023183 ± 0.00342
+  	A  	=0.1091 ± 0.00933
+  	tau	=26.676 ± 4.69
+  Constant:
+  	X0	=241.21
+
+Whole Trace Bi-Exp Fit
+
+  V_chisq= 0.221752;V_npnts= 221;V_numNaNs= 0;V_numINFs= 0;
+  V_startRow= 30;V_endRow= 250;
+  W_sigma={0.00282,0.0187,0,0.0118,0}
+  Coefficient values ± one standard deviation
+  	y0  	=-0.023138 ± 0.00282
+  	A1  	=-0.20963 ± 0.0187
+  	tau1	=5.1 ± 0
+  	A2  	=0.18176 ± 0.0118
+  	tau2	=26.676 ± 0
+  Constant:
+  	X0	=227.923
