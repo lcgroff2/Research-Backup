@@ -11,8 +11,12 @@
  * Image Processing Analysis VI: ![](https://github.com/lcgroff2/Research-Backup/blob/master/Emory/newtransientD-v5-IMAQ%20backup%20images/analysis-v5-IMAQd.png)
 
 ## Clemson University - Graduate Research Assistant (2009-2015)
-* Modeling energy transport in aqueous colloidal suspensions of semiconducting conjugated polymer nanoparticles:![](https://github.com/lcgroff2/Research-Backup/blob/master/Clemson/First%20Authors/Groff%20Fig%203.jpg)
+* Conjugated polymers are used as LED media: ![](https://github.com/lcgroff2/Research-Backup/blob/master/Clemson/Dissertation/Figures/Exciton%20Diffusion%20Layered%20Device.jpg)
   
+* Model energy transport in aqueous colloidal suspensions of semiconducting conjugated polymer nanoparticles:![](https://github.com/lcgroff2/Research-Backup/blob/master/Clemson/First%20Authors/Groff%20Fig%203.jpg)
+	* [MATLAB code for exciton diffusion modeling](https://github.com/lcgroff2/matlab/tree/master/etdiffnpv3)
+ 	* [PDF Notes for understanding exciton diffusion](https://github.com/lcgroff2/matlab/blob/master/etdiffnpv3/diffmodel-notes.pdf) 	
+
 * Incorporating fluorescent dye dopants to model complex exciton diffusion/multiple energy transfer rates in conjugated polymer nanoparticles, and characterizing particle size using atomic force microscopy (AFM): ![](https://github.com/lcgroff2/Research-Backup/blob/master/Clemson/First%20Authors/Groff%20Fig%201.jpg)
 
 * Measuring Forster Resonance Energy Transfer (FRET), Fluorescence Quantum Yield, and fluorescence quenching efficiency in dye-doped nanoparticles: ![](https://github.com/lcgroff2/Research-Backup/blob/master/Clemson/First%20Authors/Groff%20Fig%202.jpg)
