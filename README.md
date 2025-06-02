@@ -4,4 +4,4 @@ Project Name: Uncertainty Estimation via Quantitative Non-Targeted Analysis
 
 [R-Script for qNTA analysis](https://github.com/lcgroff2/Research-Backup/blob/master/ENTACT_MonteCarlo_Percentiles_Faster.R)
 
-![R-Markdown PDF](https://github.com/lcgroff2/Research-Backup/blob/master/R%20Scripts/LG2_JRS_1B_ENTACT_LC_SemiQuant.pdf)
+[R-Markdown PDF](https://github.com/lcgroff2/Research-Backup/blob/master/R%20Scripts/LG2_JRS_1B_ENTACT_LC_SemiQuant.pdf)
